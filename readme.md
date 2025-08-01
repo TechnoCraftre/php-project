@@ -1,4 +1,4 @@
-# Simple PHP Website
+# Simple PHP Website - For Practice 
 
 I put together this project while introducing a friend of mine to PHP. I decided to clean it up a bit and put it on Github so anyone new to PHP can have a taste of a very simple and minimal website built with PHP.
 
@@ -21,3 +21,4 @@ If you are a beginner and would like me to explain something in the code, or if 
 MIT
 
 ##
+
